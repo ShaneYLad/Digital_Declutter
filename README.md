@@ -1,6 +1,9 @@
 # 🧹 Digital Declutter Script
 
-A cross-platform script that clears browser cache, history, temp files, trash, and recent files — helping you stay private and organized with one command.
+A cross-platform script that clears browser cache, history, temp files, trash, and recent files — helping you stay private and organized with one command.         
+
+![Rainbow Banner](https://img.shields.io/badge/Built%20by-Shane%20Green%20(ShaneYLad)-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 💻 Supported Platforms
 - 🪟 Windows (PowerShell)
@@ -32,8 +35,8 @@ Digital clutter isn’t just messy — it can leak private data. This script hel
 
 ## 📌 Author
 **Shane Green (ShaneYLad)**  
-Privacy-first IT student & cybersecurity creator  
-[shanzoig@proton.me](mailto:shanzoig@proton.me)
+Email: [shanzoig@proton.me](mailto:shanzoig@proton.me)   
+Signal: [ShaneGreen.76](https://signal.me/#eu/4fPKFJ5PoE7nb0EgDM5DKx2LlOy2ebWx6JBoCaahT04sMW92hJhMC54AJrfE6Iwk)  
 
 ## 📜 License
 MIT — free to use, modify, and share.
