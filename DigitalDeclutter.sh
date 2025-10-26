@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================
 # Digital Declutter Script - Linux/macOS
-# Author: Shane Green (Shanzo/ShaneYLad)
+# Author: Shane Green (ShaneYLad)
 # Description: Clears temp files, browser cache, history, trash, and recent files.
 # Note: Close all browsers before running
 # ==============================================
@@ -23,7 +23,7 @@ echo -e "${CYAN}${BAR}${RESET}"
 echo -e "${CYAN}          [CLEANUP] DIGITAL DECLUTTER SCRIPT${RESET}"
 echo -e "${CYAN}${BAR}${RESET}"
 echo -e ""
-echo -e "${YELLOW}Author: Shane Green (Shanzo/ShaneYLad)${RESET}"
+echo -e "${YELLOW}Author: Shane Green (ShaneYLad)${RESET}"
 echo -e "${GRAY}Description: Cleans browser cache, history, temp files, trash, and recent files.${RESET}"
 echo -e ""
 echo -e "${RED}[WARNING] Close all browsers before running.${RESET}"
@@ -132,4 +132,5 @@ echo -e "${GREEN}[DONE] Cleanup complete! System is now clutter-free.${RESET}"
 echo -e "${CYAN}${BAR}${RESET}"
 echo -e "${YELLOW}   System feels lighter and cleaner now :)${RESET}"
 echo -e "${CYAN}${BAR}${RESET}"
+
 
