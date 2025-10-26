@@ -19,11 +19,11 @@ A cross-platform script that clears browser cache, history, temp files, trash, a
 ### 🔹 Windows (PowerShell)
 1. Run PowerShell as Administrator
 2. Navigate to the script folder
-3. Run: `.\declutter.ps1`
+3. Run: `.\DigitalDeclutter.ps1`
 
 ### 🔹 Linux/macOS (Bash)
 1. Open Terminal
-2. Run: `bash declutter.sh`
+2. Run: `bash DigitalDeclutter.sh`
 
 > ⚠️ Make sure all browsers are closed before running the script.
 
