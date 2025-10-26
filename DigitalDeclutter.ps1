@@ -1,6 +1,6 @@
 # =======================
 # Digital Declutter Script
-# Author: Shane Green (Shanzo/ShaneYLad)
+# Author: Shane Green (ShaneYLad)
 # Description: Clears temp files, browser cache, history, and recent files.
 # Note: Run PowerShell as Administrator and close all browsers.
 # =======================
@@ -19,7 +19,7 @@ Write-Host "===============================================" -ForegroundColor $C
 Write-Host "            [CLEANUP] DIGITAL DECLUTTER SCRIPT" -ForegroundColor $Cyan
 Write-Host "===============================================" -ForegroundColor $Cyan
 Write-Host ""
-Write-Host "Author: Shane Green (Shanzo/ShaneYLad)" -ForegroundColor $Yellow
+Write-Host "Author: Shane Green (ShaneYLad)" -ForegroundColor $Yellow
 Write-Host "Description: Cleans browser cache, history, temp files, and recent files." -ForegroundColor $Gray
 Write-Host ""
 Write-Host "[WARNING] Run as Admin and close all browsers before starting." -ForegroundColor $Red
@@ -122,4 +122,5 @@ Write-Host "[DONE] Cleanup complete! System is now clutter-free." -ForegroundCol
 Write-Host "===============================================" -ForegroundColor $Cyan
 Write-Host "   System feels lighter and cleaner now :)" -ForegroundColor $Yellow
 Write-Host "===============================================" -ForegroundColor $Cyan
+
 
