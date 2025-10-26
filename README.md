@@ -31,7 +31,7 @@ A cross-platform script that clears browser cache, history, temp files, trash, a
 Digital clutter isn’t just messy — it can leak private data. This script helps you clean up your system quickly and safely.
 
 ## 📌 Author
-**Shane Green (Shanzo/ShaneYLad)**  
+**Shane Green (ShaneYLad)**  
 Privacy-first IT student & cybersecurity creator  
 [shanzoig@proton.me](mailto:shanzoig@proton.me)
 
